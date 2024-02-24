@@ -1,0 +1,14 @@
+[
+  { "id": 1, "question": "Mikä on maailman suurin valtameri?", "answer": "Tyyni valtameri" },
+  { "id": 2, "question": "Mikä on Suomen pääkaupunki?", "answer": "Helsinki" },
+  { "id": 3, "question": "Mikä on Suomen eteläisin paikka?", "answer": "Hangon saaristo" },
+  { "id": 4, "question": "Missä sijaitsee Suomen pohjoisin paikka?", "answer": "Nuorgam" },
+  { "id": 5, "question": "Mikä on Suomen suurin järvi?", "answer": "Saimaa" },
+  { "id": 6, "question": "Mikä on Suomen pisin joki?", "answer": "Kemijoki" },
+  { "id": 7, "question": "Mikä on Suomen vanhin kaupunki?", "answer": "Turku" },
+  { "id": 8, "question": "Mikä on Suomen kansallislintu?", "answer": "Laulujoutsen" },
+  { "id": 9, "question": "Kuinka monta saarta Suomessa on yhteensä?", "answer": "Noin 188 000" },
+  { "id": 10, "question": "Mikä on Suomen korkein kohta?", "answer": "Halti" },
+  { "id": 11, "question": "Mikä on Suomen pinta-ala?", "answer": "338 424 km²" },
+  { "id": 12, "question": "Mikä on Suomen asukasluku?", "answer": "Noin 5,5 miljoonaa" }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "triviapeli",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node triviapeli.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  }
+}
